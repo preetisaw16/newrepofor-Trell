@@ -1,0 +1,7 @@
+00:57:36.287 [main] INFO  resources.base - Name is entered: G00gle
+00:57:36.355 [main] INFO  resources.base - City is entered: AO
+00:57:36.463 [main] INFO  resources.base - MobileNumber is entered: 4654654544
+00:57:38.565 [main] INFO  resources.base - OTP is entered: 0000
+00:57:38.737 [main] INFO  resources.base - Refferal code is entered: ALWR2220
+00:57:38.897 [main] INFO  resources.base - auto checked, when double clicked it checks and unchecks
+00:57:39.062 [main] INFO  resources.base - Name printed: Ggle

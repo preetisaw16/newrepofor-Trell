@@ -1,0 +1,8 @@
+01:44:44.182 [main] INFO  resources.base - Input given for Name:Test
+01:44:44.190 [main] INFO  resources.base - Accepted value for Name:Test
+01:44:44.190 [main] INFO  resources.base - Name: Value matched
+01:44:44.304 [main] INFO  resources.base - No input given for City
+01:44:44.445 [main] INFO  resources.base - No input given for Referral Code
+01:44:44.654 [main] INFO  resources.base - No input given for CheckBox
+01:44:49.876 [main] INFO  resources.base - Name: No Alerts found
+01:44:49.950 [main] INFO  resources.base - Alert message for City:Please enter City.

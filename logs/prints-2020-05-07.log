@@ -1,0 +1,7 @@
+23:59:17.360 [main] INFO  resources.base - No input given forCheckBox
+23:59:17.492 [main] INFO  resources.base - Alert message for Name:
+23:59:17.492 [main] INFO  resources.base - Name: Shoudn't have displayed Alert
+23:59:17.521 [main] INFO  resources.base - Alert message for City:Please enter City.
+23:59:17.521 [main] INFO  resources.base - City: Alert displayed
+23:59:17.548 [main] INFO  resources.base - Alert message for Referral Code:
+23:59:17.548 [main] INFO  resources.base - Referral Code: Shoudn't have displayed Alert

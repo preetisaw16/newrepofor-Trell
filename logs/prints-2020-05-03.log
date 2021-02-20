@@ -1,0 +1,6 @@
+17:30:27.950 [main] INFO  resources.base - Refferal code printed: 0
+17:30:27.974 [main] INFO  resources.base - Refferal code Alert message: 
+17:30:28.129 [main] INFO  resources.base - auto checked, when double clicked it checks and unchecks
+17:30:28.199 [main] INFO  resources.base - Validation for Name passed
+23:53:04.444 [main] INFO  resources.base - -------------------- Testing forFresh number with invalid city and Tag------------------
+23:53:06.724 [main] INFO  resources.base - MobileNumber input given: 7892744421

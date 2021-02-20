@@ -1,0 +1,6 @@
+19:04:44.168 [main] INFO  resources.base - Name is entered: @#$!%&*()_-+={}[]^|\?, a.;:'"A13
+19:04:44.238 [main] INFO  resources.base - Name printed:  a.A
+19:04:44.920 [main] INFO  resources.base - auto cheched, when double clicked it checks and unchecks
+19:16:38.786 [main] INFO  resources.base - Name is entered: @#$!%&*()_-+={}[]^|\?, a.;:'"A13
+19:16:38.835 [main] INFO  resources.base - Name printed:  a.A
+19:16:39.467 [main] INFO  resources.base - auto cheched, when double clicked it checks and unchecks

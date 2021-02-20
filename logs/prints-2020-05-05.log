@@ -1,0 +1,8 @@
+19:13:14.607 [main] INFO  resources.base - City input given: 0
+19:13:14.634 [main] INFO  resources.base - City printed: 0
+19:13:14.663 [main] INFO  resources.base - Alert message is: 
+19:13:14.858 [main] INFO  resources.base - OTP entered: 0000
+19:13:14.882 [main] INFO  resources.base - OTP Regeneration message: 
+19:13:14.951 [main] INFO  resources.base - Refferal code input given: 0
+19:13:14.970 [main] INFO  resources.base - Refferal code printed: 0
+19:13:14.997 [main] INFO  resources.base - Refferal code Alert message: 
