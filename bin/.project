@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>OfficeItradeProject</name>
-=======
 	<name>E2EProject</name>
->>>>>>> fffd3963ce3fbc146f9c3e979b869ed37c446a6c
 	<comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
 	<projects>
 	</projects>
